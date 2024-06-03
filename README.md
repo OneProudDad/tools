@@ -12,10 +12,15 @@ There has been a lot of noise about Server Side Rendering frameworks and the lik
 I have played with early iterations of yarn and found it to be less stable than the basic npm. When I heard about pnpm I was likewise skeptical. After having installed it and played with it - I admit it still has some warts (like the warning message you get about your pnpm version that doesn't get solved by the suggested upgrade command) but in general I find that it is much faster than NPM, and more importantly for my purposes, it communicates with clear error, warning, and info messages that helps to save hours of engineering time.
 
 # Change Log
+
+## 0.1.1
+Adjusting file naming and moving the app code into an app folder - additionally moving the index.css to that app folder and renaming it to base.css
+
 ## 0.1.0
 Initial Vite app
 
-# React + TypeScript + Vite
+# Vite Template Notes
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
