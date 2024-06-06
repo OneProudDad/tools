@@ -13,6 +13,9 @@ I have played with early iterations of yarn and found it to be less stable than 
 
 # Change Log
 
+## 0.2.0
+Adding the about page and an empty page for base64 helpers.
+
 ## 0.1.1
 Adjusting file naming and moving the app code into an app folder - additionally moving the index.css to that app folder and renaming it to base.css
 

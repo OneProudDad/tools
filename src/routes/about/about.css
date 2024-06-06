@@ -1,0 +1,22 @@
+.input-default {
+    height: 40px;
+    width: 345px;
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.single-line {
+    width: 100%;
+    margin-top: 12px;
+    display: inline-flex;
+}
+
+.text-label {
+    height: 40px;
+    width: 100%;
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
